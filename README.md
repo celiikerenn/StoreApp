@@ -11,12 +11,14 @@ Display all ordered items
 Clear terminal and return to main menu
 
 ### 🧾 Classes Used
+```bash
 Customer
 setName(), setCity() → Gets user input
 addItem(string item) → Adds an item to the order list
 deleteItem(string item) → Removes an item from the order list
 displayOrderedItems() → Displays current orders
 HelloScreen() → Welcomes the user
+```
 
 ### 🔧 Compile and Run
 Linux/macOS/WSL:
