@@ -19,13 +19,14 @@ displayOrderedItems() → Displays current orders
 HelloScreen() → Welcomes the user
 
 ### 🔧 Compile and Run
-```bash
 Linux/macOS/WSL:
+```bash
 g++ -o order_app main.cpp
 ./order_app
 ```
-```bash
+
 Windows (CMD):
+```bash
 g++ -o order_app.exe main.cpp
 order_app.exe
 ```
